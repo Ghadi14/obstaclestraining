@@ -1,0 +1,54 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+# path: ../datasets  # dataset root dir
+train: C:/Users/ghadi/Documents/AI/yolov5_clean/yolov5/data/dataset/train/images
+val: C:/Users/ghadi/Documents/AI/yolov5_clean/yolov5/data/dataset/val/images
+# test: ../test/images # test images (optional)
+
+# Classes (80 COCO classes)
+names:
+  0: Road narrows on right sign
+  1: 50 mph speed limit sign 
+  2: Attention Please sign 
+  3: Beware of children sign
+  4: CYCLE ROUTE AHEAD WARNING sign 
+  5: Dangerous Left Curve Ahead sign
+  6: Dangerous Right Curve Ahead sign
+  7: End of all speed and passing limits sign
+  8: Give Way sign
+  9: Go Straight or Turn Right sign
+  10: Go straight or turn left sign
+  11: Keep Left sign
+  12: Keep Right sign
+  13: Left Zig Zag Traffic sign
+  14: No Entry sign
+  15: No Over Taking sign
+  16: Overtaking by trucks is prohibited sign
+  17: Pedestrian Crossing sign
+  18: Round About sign
+  19: Slippery Road Ahead sign
+  20: Speed Limit 20 KMPh sign
+  21: Speed Limit 30 KMPh sign
+  22: Stop Sign
+  23: Straight Ahead Only sign
+  24: Traffic signal sign
+  25: Truck traffic is prohibited sign
+  26: Turn left ahead sign
+  27: Turn right ahead sign
+  28: Uneven Road sign
+  29: potHoles
+  30: ambulance
+  31: bicycle
+  32: bus
+  33: car
+  34: motorbike
+  35: pickup
+  36: truck
+  37: van
+  38: license
+
+
+
+
+
+
+
